@@ -1,0 +1,11 @@
+# Build artefacts
+*.o
+*.a
+*.so
+obj/
+libs/
+dist/
+
+# Editor / OS
+*.swp
+.DS_Store
