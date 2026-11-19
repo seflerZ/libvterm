@@ -9,3 +9,6 @@ dist/
 # Editor / OS
 *.swp
 .DS_Store
+
+# 看板工具的会话状态目录（别让它冒进提交列表）
+.memex/
